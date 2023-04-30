@@ -1,0 +1,11 @@
+.home-p
+{
+    background-image:url(https://media.istockphoto.com/id/1359662582/photo/group-of-happy-college-student-stock-photo.jpg?b=1&s=170667a&w=0&k=20&c=Sv6qJHI4bpuynUeZ6pNDaFhIildDmtPWkZ0yynZELqI=);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.roun
+{
+   border-radius:20px;
+   background-image: linear-gradient(rgb(62, 49, 154), blue);
+}

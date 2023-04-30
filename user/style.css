@@ -1,0 +1,10 @@
+.on
+{
+    background-image:url('images.jfif');
+    background-repeat:no-repeat;
+    background-size:100vw 100vh;
+}
+.card
+{
+    box-shadow:4px 8px 12px 5px grey;
+}
